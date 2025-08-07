@@ -9,7 +9,7 @@ Kramer-Intelligence is an experimental lab for AI-native software.
 ### Projects
 - **AI Terminal** — An AI agent with access to Powershell.
 - **Kramer Intelligence** — An advanced AI assistant with real time information from the web.
-- **Kramer Intelligent Cloud Write** — The first, and probably last, entry in the Kramer Intelligent Cloud productivity suite.
+- **Kramer Intelligent Cloud Write** — The first entry in the Kramer Intelligent Cloud productivity suite.
 - **KramerSearch** — Private and secure search engine.
 - **Kramer Browser** — Everyone needs their own browser.
 
