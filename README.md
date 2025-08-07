@@ -1,6 +1,6 @@
 # Kramer Intelligence
 
-*Welcome to the post-product era.*
+*"Welcome to the post-product era." — Daniel Vincent Kramer*
 
 Kramer-Intelligence is an experimental lab for AI-native software.
 
