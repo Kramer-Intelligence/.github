@@ -1,7 +1,6 @@
 # Kramer Intelligence
 
-**We don't ship products. We ship paradigms.**  
-Welcome to the post-product era.
+*Welcome to the post-product era.*
 
 Kramer-Intelligence is an experimental lab for AI-native software.
 
